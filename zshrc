@@ -1,3 +1,5 @@
+export TERM="xterm-256color"
+export LANG=en_US.utf8
 autoload -U compinit
 compinit
 
@@ -17,7 +19,7 @@ antigen bundle tmux
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme.
-antigen theme jreese
+antigen theme sorin
 
 # Tell antigen that you're done.
 antigen apply
