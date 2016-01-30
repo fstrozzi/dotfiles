@@ -17,7 +17,7 @@ antigen bundle tmux
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme.
-antigen theme powerlevel9k
+antigen theme candy
 
 # Tell antigen that you're done.
 antigen apply
