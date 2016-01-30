@@ -17,7 +17,7 @@ antigen bundle tmux
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme.
-antigen theme liquidprompt
+antigen theme powerlevel9k
 
 # Tell antigen that you're done.
 antigen apply
@@ -40,4 +40,3 @@ export PATH=$HOME/bin:$PATH
 # PYENV
 export PATH="$HOME/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
-eval "$(pyenv virtualenv-init -)"
