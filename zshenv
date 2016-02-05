@@ -1,6 +1,5 @@
-# PYENV
-export PATH="$HOME/.pyenv/bin:$PATH"
-eval "$(pyenv init -)"
+# CONDA
+export PATH=$HOME/miniconda3/bin:$PATH
 
 # RBENV
 export PATH="$HOME/.rbenv/bin:$PATH"

@@ -39,6 +39,5 @@ alias mv="mv -i"
 ### CUSTOM PATH
 export PATH=$HOME/bin:$PATH
 
-# PYENV
-export PATH="$HOME/.pyenv/bin:$PATH"
-eval "$(pyenv init -)"
+# CONDA
+export PATH=$HOME/miniconda3/bin:$PATH
