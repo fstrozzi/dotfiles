@@ -19,7 +19,7 @@ antigen bundle tmux
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme.
-antigen theme sorin
+antigen theme agnoster
 
 # Tell antigen that you're done.
 antigen apply
