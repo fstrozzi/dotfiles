@@ -26,11 +26,6 @@ antigen apply
 
 ### END ANTIGEN
 
-### RBENV
-
-export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
-
 ### ALIASES
 alias rm="rm -i"
 alias cp="cp -i"
