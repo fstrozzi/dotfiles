@@ -35,4 +35,4 @@ alias mv="mv -i"
 export PATH=$HOME/bin:$PATH
 
 # CONDA
-export PATH=$HOME/miniconda3/bin:$PATH
+export PATH=$HOME/miniconda2/bin:$PATH
